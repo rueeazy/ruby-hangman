@@ -5,6 +5,7 @@ class Game
 
 
     def game_start
+        reset_game
         puts "--------------------------"
         puts "   Welcome to Hangman!"
         puts "--------------------------"
